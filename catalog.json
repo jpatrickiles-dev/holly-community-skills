@@ -1,0 +1,18 @@
+[
+  {
+    "name": "video-extractor-v2",
+    "version": "1.0.0",
+    "description": "Extract title, description, transcript and keywords from a YouTube/TikTok/Vimeo URL via yt-dlp.",
+    "git": "https://github.com/jpatrickiles-dev/holly-agent-video-extractor-v2",
+    "pubkey": "00000000000000000000000000000000000000000000000000000000000000ff",
+    "tags": ["video", "url", "transcript", "tiktok", "youtube", "extract"]
+  },
+  {
+    "name": "pdf-reader",
+    "version": "1.0.0",
+    "description": "Extract text, tables and images from a PDF file using pypdf, pdfplumber, PyMuPDF and tesseract OCR.",
+    "git": "https://github.com/jpatrickiles-dev/holly-agent-pdf-reader",
+    "pubkey": "00000000000000000000000000000000000000000000000000000000000000ff",
+    "tags": ["pdf", "document", "ocr", "text", "extract"]
+  }
+]
